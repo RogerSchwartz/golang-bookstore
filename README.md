@@ -1,1 +1,1 @@
-# golang-bookstore
+# golang-MySQL-bookstore Management API
